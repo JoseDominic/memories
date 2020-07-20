@@ -1,0 +1,19 @@
+{
+  "name": "memories",
+  "version": "1.0.0",
+  "description": "App to create personal and public blogs",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseDominic/memories.git"
+  },
+  "author": "Jose Dominic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseDominic/memories/issues"
+  },
+  "homepage": "https://github.com/JoseDominic/memories#readme"
+}
